@@ -1,0 +1,27 @@
+c:\users\estra\documents\visual studio 2015\Projects\BasketBallScoreBoard\BasketBallScoreBoard\bin\Debug\BasketBallScoreBoard.exe.config
+c:\users\estra\documents\visual studio 2015\Projects\BasketBallScoreBoard\BasketBallScoreBoard\bin\Debug\BasketBallScoreBoard.exe
+c:\users\estra\documents\visual studio 2015\Projects\BasketBallScoreBoard\BasketBallScoreBoard\bin\Debug\BasketBallScoreBoard.pdb
+c:\users\estra\documents\visual studio 2015\Projects\BasketBallScoreBoard\BasketBallScoreBoard\obj\Debug\BasketBallScoreBoard.csprojResolveAssemblyReference.cache
+c:\users\estra\documents\visual studio 2015\Projects\BasketBallScoreBoard\BasketBallScoreBoard\obj\Debug\BasketBallScoreBoard.Form1.resources
+c:\users\estra\documents\visual studio 2015\Projects\BasketBallScoreBoard\BasketBallScoreBoard\obj\Debug\BasketBallScoreBoard.Properties.Resources.resources
+c:\users\estra\documents\visual studio 2015\Projects\BasketBallScoreBoard\BasketBallScoreBoard\obj\Debug\BasketBallScoreBoard.csproj.GenerateResource.Cache
+c:\users\estra\documents\visual studio 2015\Projects\BasketBallScoreBoard\BasketBallScoreBoard\obj\Debug\BasketBallScoreBoard.exe
+c:\users\estra\documents\visual studio 2015\Projects\BasketBallScoreBoard\BasketBallScoreBoard\obj\Debug\BasketBallScoreBoard.pdb
+E:\Estrada, James Gerald C\OOP\BasketBallScoreBoard\BasketBallScoreBoard\bin\Debug\BasketBallScoreBoard.exe.config
+E:\Estrada, James Gerald C\OOP\BasketBallScoreBoard\BasketBallScoreBoard\obj\Debug\BasketBallScoreBoard.exe
+E:\Estrada, James Gerald C\OOP\BasketBallScoreBoard\BasketBallScoreBoard\obj\Debug\BasketBallScoreBoard.pdb
+E:\Estrada, James Gerald C\OOP\BasketBallScoreBoard\BasketBallScoreBoard\bin\Debug\BasketBallScoreBoard.exe
+E:\Estrada, James Gerald C\OOP\BasketBallScoreBoard\BasketBallScoreBoard\bin\Debug\BasketBallScoreBoard.pdb
+E:\Estrada, James Gerald C\OOP\BasketBallScoreBoard\BasketBallScoreBoard\obj\Debug\BasketBallScoreBoard.csprojResolveAssemblyReference.cache
+E:\Estrada, James Gerald C\OOP\BasketBallScoreBoard\BasketBallScoreBoard\obj\Debug\BasketBallScoreBoard.Form1.resources
+E:\Estrada, James Gerald C\OOP\BasketBallScoreBoard\BasketBallScoreBoard\obj\Debug\BasketBallScoreBoard.Properties.Resources.resources
+E:\Estrada, James Gerald C\OOP\BasketBallScoreBoard\BasketBallScoreBoard\obj\Debug\BasketBallScoreBoard.csproj.GenerateResource.Cache
+D:\Estrada, James Gerald C\OOP\BasketBallScoreBoard\BasketBallScoreBoard\bin\Debug\BasketBallScoreBoard.exe.config
+D:\Estrada, James Gerald C\OOP\BasketBallScoreBoard\BasketBallScoreBoard\obj\Debug\BasketBallScoreBoard.exe
+D:\Estrada, James Gerald C\OOP\BasketBallScoreBoard\BasketBallScoreBoard\obj\Debug\BasketBallScoreBoard.pdb
+D:\Estrada, James Gerald C\OOP\BasketBallScoreBoard\BasketBallScoreBoard\obj\Debug\BasketBallScoreBoard.csprojResolveAssemblyReference.cache
+D:\Estrada, James Gerald C\OOP\BasketBallScoreBoard\BasketBallScoreBoard\obj\Debug\BasketBallScoreBoard.Form1.resources
+D:\Estrada, James Gerald C\OOP\BasketBallScoreBoard\BasketBallScoreBoard\obj\Debug\BasketBallScoreBoard.Properties.Resources.resources
+D:\Estrada, James Gerald C\OOP\BasketBallScoreBoard\BasketBallScoreBoard\obj\Debug\BasketBallScoreBoard.csproj.GenerateResource.Cache
+D:\Estrada, James Gerald C\OOP\BasketBallScoreBoard\BasketBallScoreBoard\bin\Debug\BasketBallScoreBoard.exe
+D:\Estrada, James Gerald C\OOP\BasketBallScoreBoard\BasketBallScoreBoard\bin\Debug\BasketBallScoreBoard.pdb
